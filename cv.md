@@ -4,7 +4,7 @@
 + Email: kira.spb36@gmail.com
 + GitHub: Irinisk
 
-## About me
+## About Me
 
 ## Skills
 
