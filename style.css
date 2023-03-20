@@ -1,16 +1,5 @@
-	.flex-container {
-	  display: flex;
-	  flex-direction: row;
-	  justify-content: center;
-	}	
-	
-	.flex-container-contact {
-	  margin: 30px;
-	  padding: 10px;
-	  background-color: rgba(172, 223, 135,0.5);
-    }
-		
-	.flex-container-main {
-	  margin: 30px;
-	  padding: 10px;
-	}
+ .cv_wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
